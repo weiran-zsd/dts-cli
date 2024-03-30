@@ -101,7 +101,7 @@
     "sade": "^1.8.1",
     "semver": "^7.3.8",
     "shelljs": "^0.8.5",
-    "sort-package-json": "^1.57.0",
+    "sort-package-json": "^2.10.0",
     "tiny-glob": "^0.2.9",
     "ts-jest": "^29.0.5",
     "ts-node": "^10.9.1",
